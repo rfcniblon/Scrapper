@@ -1,4 +1,5 @@
 # Scrapper
+le fichier .sampleEnv doit être renommer en .env  
 
 ## Fichier img.js 
 scrapper l url renseigner dans le fichier .env et fait un screenshot a la dimension du setViewport.
